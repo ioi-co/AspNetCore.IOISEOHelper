@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.example.com/asp-dot-net-turotial-part1</loc>
+    <lastmod>1399-09-09T16:57:27+03:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/asp-dot-net-turotial-part2</loc>
+    <lastmod>1399-09-09T16:57:27+03:30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/asp-dot-net-turotial-part3</loc>
+    <lastmod>1399-09-09T16:57:27+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLAsfPigkmC6qW+EepCCCKY78tHbo9t5lTpHsZPxOGTc4nYTVGw9jkTtE7da/aS/OXjs1j7iNRD0Tz9Q63X+Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AspNetCore.IOISEOHelper\\IOISEOHelper\\Test\\TestNetCoreSiteVersion3.1\\TestNetCore3.1\\TestNetCore3.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

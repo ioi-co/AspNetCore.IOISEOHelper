@@ -1,0 +1,9 @@
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\bin\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.deps.json
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\bin\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.dll
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\bin\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.pdb
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\obj\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.csprojAssemblyReference.cache
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\obj\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.AssemblyInfoInputs.cache
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\obj\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.AssemblyInfo.cs
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\obj\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.csproj.CoreCompileInputs.cache
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\obj\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.dll
+C:\Projects\AspNetCore.IOISEOHelper\IOISEOHelper\AspNetCore.IOISEOHelper\obj\Debug\netcoreapp3.1\AspNetCore.IOISEOHelper.pdb
